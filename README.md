@@ -1,8 +1,8 @@
 # katabank
-A simple test  Api for a bank account 
+A simple test  Api for a Bank account 
 
 ## Prerequired
-node js should be installed 
+Node js should be installed 
 
 ## Getting started 
 
@@ -16,7 +16,7 @@ node app.js
 
 1- Open an Api tester like : postman or Swagger
 
-2- test the bank APi 
+2- Test the bank APi 
 
 ### Get method
 ````
@@ -28,7 +28,7 @@ localhost:3000/account
 localhost:3000/deposit
 { "value" : 100 } 
 ````
-Value should passed as a Json in the body
+Value should be passed as Json format in the body
 
 ### Put method
 
@@ -36,7 +36,7 @@ Value should passed as a Json in the body
 localhost:3000/withdrawal
 { "value" : 50 } 
 ````
-Value should passed as a Json in the body
+Value should be passed as Json format in the body
  (50 for eg)
 
 
