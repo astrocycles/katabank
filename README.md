@@ -15,6 +15,7 @@ node app.js
 ````
 
 1- Open an Api tester like : postman or Swagger
+
 2- test the bank APi 
 
 ### Get method
