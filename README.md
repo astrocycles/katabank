@@ -28,7 +28,7 @@ localhost:3000/account
 localhost:3000/deposit
 { "value" : 100 } 
 ````
-In the body
+Value should passed as a Json in the body
 
 ### Put method
 
@@ -36,7 +36,8 @@ In the body
 localhost:3000/withdrawal
 { "value" : 50 } 
 ````
-In the body (for eg)
+Value should passed as a Json in the body
+ (50 for eg)
 
 
 ### Get method
